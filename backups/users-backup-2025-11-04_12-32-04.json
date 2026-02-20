@@ -1,0 +1,301 @@
+{
+  "backupDate": "2025-11-04T07:02:04.032Z",
+  "totalUsers": 21,
+  "users": [
+    {
+      "id": "4GmlpqFSndGRLX7TwF0M",
+      "username": "Ayaz Memon",
+      "email": "ayazsmemon07@gmail.com",
+      "role": "user",
+      "createdAt": "2025-07-02T06:59:24.944Z",
+      "updatedAt": "2025-07-03T06:23:51.901Z",
+      "password": "$2b$12$9hFA/hRMT5v/xyXUDFwgvuZ7HcUVskWoSeuCF9Du0i7SQORp1lhEu",
+      "passwordMigratedAt": {
+        "_seconds": 1753693044,
+        "_nanoseconds": 981000000
+      },
+      "passwordMigrationVersion": "1.0"
+    },
+    {
+      "id": "7KOeIcBbIOg1QXXNOhZi",
+      "username": "chintan",
+      "email": "logamchintan@gmail.com",
+      "role": "user",
+      "createdAt": "2025-07-02T06:55:58.276Z",
+      "updatedAt": "2025-07-02T06:55:58.276Z",
+      "password": "$2b$12$sx7UJPyFwqrmf9n8F4jgouTzYio90iPDGO9NEJCQTlqis6YmrJ0xK",
+      "passwordMigratedAt": {
+        "_seconds": 1753693045,
+        "_nanoseconds": 179000000
+      },
+      "passwordMigrationVersion": "1.0"
+    },
+    {
+      "id": "7UQWf6OrC4LyOAzIasdz",
+      "username": "Divyom",
+      "email": "logamdivyom@gmail.com",
+      "role": "user",
+      "createdAt": "2025-08-07T07:45:01.892Z",
+      "updatedAt": "2025-08-07T07:45:01.892Z",
+      "password": "$2a$10$XIkcOZXr2Lj3zYyeT.gv5u1ohQ5OWYQh3u9e47wc3deuf4jbbZ4Hi",
+      "passwordHashingMethod": "bcrypt",
+      "passwordMigratedAt": {
+        "_seconds": 1762239271,
+        "_nanoseconds": 990000000
+      }
+    },
+    {
+      "id": "7xW3x8mdQWcAXjZB0tRm",
+      "username": "jaydeep",
+      "email": "jaydeeplogam08@gmail.com",
+      "role": "user",
+      "createdAt": "2025-07-02T06:51:14.412Z",
+      "updatedAt": "2025-07-02T06:51:14.412Z",
+      "password": "$2b$12$Qb58CJOPQrmGgVq/81RuhezmABb5RR0Sfj3Cg6tkTmokFfmQ9OfPG",
+      "passwordMigratedAt": {
+        "_seconds": 1753693045,
+        "_nanoseconds": 373000000
+      },
+      "passwordMigrationVersion": "1.0"
+    },
+    {
+      "id": "FJHAEOACopPFOZEShoCT",
+      "username": "meet",
+      "email": "meetkapatellogam@gmail.com",
+      "role": "user",
+      "createdAt": "2025-07-02T06:52:15.288Z",
+      "updatedAt": "2025-07-02T06:52:15.288Z",
+      "password": "$2b$12$250fye1EAE5ucij5wCTIiuO.4dzPjRKXWu3eQfi85LyCaYkcRoave",
+      "passwordMigratedAt": {
+        "_seconds": 1753693045,
+        "_nanoseconds": 568000000
+      },
+      "passwordMigrationVersion": "1.0"
+    },
+    {
+      "id": "JeDAeB6ie3M5Q1G7AZqW",
+      "username": "siddharth",
+      "email": "siddharth.logam@gmail.com",
+      "role": "user",
+      "createdAt": "2025-06-27T19:57:18.135Z",
+      "updatedAt": "2025-06-27T19:57:18.135Z",
+      "password": "$2b$12$8cfA5SG.GBLgSd0sEPFA6ODc6W0P8fw7YKu0yD/pCggTUpaPQasnC",
+      "passwordMigratedAt": {
+        "_seconds": 1753693045,
+        "_nanoseconds": 763000000
+      },
+      "passwordMigrationVersion": "1.0"
+    },
+    {
+      "id": "MWwbS9LWM57lhX61Wl2G",
+      "username": "dhrumil",
+      "email": "logamdigitalads@gmail.com",
+      "role": "user",
+      "createdAt": "2025-07-02T06:56:57.268Z",
+      "updatedAt": "2025-07-02T06:56:57.268Z",
+      "password": "$2b$12$.6svOM2XnGepjYEZBgoOTeVASFalX3MwD6ADdiVcZRg3nhR5o3xqm",
+      "passwordMigratedAt": {
+        "_seconds": 1753693045,
+        "_nanoseconds": 958000000
+      },
+      "passwordMigrationVersion": "1.0"
+    },
+    {
+      "id": "QzCHcA4jt2mfIg0N84UA",
+      "username": "vraj",
+      "email": "vrajlogam@gmail.com",
+      "role": "user",
+      "createdAt": "2025-07-02T06:58:52.986Z",
+      "updatedAt": "2025-07-02T06:58:52.986Z",
+      "password": "$2b$12$Fm3HUn4wn2Uw9BwHUEJ7eOt4.2IYlCZ3QTpElOO79rfCKzIN8KLj2",
+      "passwordMigratedAt": {
+        "_seconds": 1753693046,
+        "_nanoseconds": 153000000
+      },
+      "passwordMigrationVersion": "1.0"
+    },
+    {
+      "id": "UzY5x6Vn6RDowTG80418",
+      "username": "Piyush",
+      "email": "piyush.logamacademy@gmail.com",
+      "role": "user",
+      "createdAt": "2025-06-30T06:11:59.429Z",
+      "updatedAt": "2025-06-30T06:11:59.429Z",
+      "password": "$2b$12$8Qj4I2shscKQdtPsA2V20OQV64RJx5ZFrhRFiO1j4gY7KkA8StxBS",
+      "passwordMigratedAt": {
+        "_seconds": 1753693046,
+        "_nanoseconds": 349000000
+      },
+      "passwordMigrationVersion": "1.0"
+    },
+    {
+      "id": "VQfu2pAFRFUDsNIcpENN",
+      "email": "gautam.logam2311@gmail.com",
+      "role": "user",
+      "createdAt": "2025-07-02T06:48:40.836Z",
+      "username": "gautam 2.0",
+      "passwordMigratedAt": {
+        "_seconds": 1753693046,
+        "_nanoseconds": 544000000
+      },
+      "passwordMigrationVersion": "1.0",
+      "password": "$2a$12$QYWBQLODLGfU4kU3Owceo.nulVOGxMwjOnVC4VqfaxMI9F80vUV62",
+      "updatedAt": null
+    },
+    {
+      "id": "WfJXqixjrwMzB0AzoKJM",
+      "email": "rishi@example.com",
+      "role": "admin",
+      "createdAt": "2025-06-27T19:57:14.637Z",
+      "passwordMigrationVersion": "1.0",
+      "username": "Rao Rishi",
+      "updatedAt": "2025-08-03T08:22:11.500Z",
+      "password": "$2a$10$GFL5DiVOrPiqvlNIDYTn3eQUQ90wtbn8ypBoF2sWKW36F2PqH4fS6",
+      "passwordHashingMethod": "bcrypt",
+      "passwordMigratedAt": {
+        "_seconds": 1762239272,
+        "_nanoseconds": 551000000
+      }
+    },
+    {
+      "id": "dglLxoBrfx4KQA67gW63",
+      "username": "Anas Memon",
+      "email": "mail.anasmemon@gmail.com",
+      "role": "user",
+      "createdAt": "2025-06-28T08:54:51.728Z",
+      "updatedAt": "2025-06-28T08:54:51.728Z",
+      "password": "$2b$12$0FpjWrlODnWNwpvPNMErtu.4LJ3uBcYoZ.5JQqJWaS2znZJv.uFX2",
+      "passwordMigratedAt": {
+        "_seconds": 1753693046,
+        "_nanoseconds": 947000000
+      },
+      "passwordMigrationVersion": "1.0"
+    },
+    {
+      "id": "houUD74sSIjU2fsnOo0S",
+      "username": "krisha",
+      "email": "krishalogam13@gmail.com",
+      "role": "user",
+      "createdAt": "2025-07-02T06:49:35.431Z",
+      "updatedAt": "2025-07-02T06:49:35.431Z",
+      "password": "$2b$12$j69GsIhTDEQFISL/KIdudeXNTsmxwQMxVQoAKpWNHsryX4jWMSiMC",
+      "passwordMigratedAt": {
+        "_seconds": 1753693047,
+        "_nanoseconds": 144000000
+      },
+      "passwordMigrationVersion": "1.0"
+    },
+    {
+      "id": "km6xzibPMooKYgirBtcw",
+      "username": "dimple",
+      "email": "dimplelogam@gmail.com",
+      "role": "user",
+      "createdAt": "2025-07-02T07:02:53.982Z",
+      "updatedAt": "2025-07-02T07:02:53.982Z",
+      "password": "$2b$12$AQl7ZZJ3PFKtQdFEzcwJTOS80FIy0VallqaWsH8t4DW8YkvlwISc2",
+      "passwordMigratedAt": {
+        "_seconds": 1753693047,
+        "_nanoseconds": 342000000
+      },
+      "passwordMigrationVersion": "1.0"
+    },
+    {
+      "id": "nKToaO90uXYDzGWayj9Z",
+      "username": "Chirag",
+      "email": "logam.chirag@gmail.com",
+      "role": "user",
+      "createdAt": "2025-06-28T09:07:01.447Z",
+      "updatedAt": "2025-06-28T09:07:01.447Z",
+      "password": "$2b$12$AZLtlIKv1MtJS0upSsQxw.ZvcC6yjJqMazC9kDIRSPrIopQgrSWUC",
+      "passwordMigratedAt": {
+        "_seconds": 1753693047,
+        "_nanoseconds": 544000000
+      },
+      "passwordMigrationVersion": "1.0"
+    },
+    {
+      "id": "ol7JNs1KMBvQ4hR8atXq",
+      "username": "Kreyansh",
+      "email": "kreyan.logam@gmail.com",
+      "role": "user",
+      "createdAt": "2025-06-28T06:44:24.038Z",
+      "updatedAt": "2025-06-28T06:44:24.038Z",
+      "password": "$2b$12$/g7eEAAPi/lg9Vpn8etfAuYI/PfJrNSpXI6023sbzGO1eqW24.g3K",
+      "passwordMigratedAt": {
+        "_seconds": 1753693047,
+        "_nanoseconds": 739000000
+      },
+      "passwordMigrationVersion": "1.0"
+    },
+    {
+      "id": "p26Mcw9BujCvXALmrz7z",
+      "username": "Dhruv",
+      "email": "dhruvlogam@gmail.com",
+      "role": "user",
+      "createdAt": "2025-08-07T07:48:55.083Z",
+      "updatedAt": "2025-08-07T07:48:55.083Z",
+      "password": "$2a$10$K2clBG5HTEv0RnoLgZtu4u1RPsiuNQ1p2TaaiwOu.SOYY7tsPWDEW",
+      "passwordHashingMethod": "bcrypt",
+      "passwordMigratedAt": {
+        "_seconds": 1762239273,
+        "_nanoseconds": 710000000
+      }
+    },
+    {
+      "id": "qOqvxKhY0hkwazrqtNxa",
+      "username": "afzal",
+      "email": "afzal.logam@gmail.com",
+      "role": "admin",
+      "createdAt": "2025-06-27T19:53:38.069Z",
+      "updatedAt": "2025-06-27T19:53:38.069Z",
+      "password": "$2b$12$iMxo4MSCQpZZYk8OLMP5bOSdZklJO.FfUMbby2pfYx3jNjoeEdJ02",
+      "passwordMigratedAt": {
+        "_seconds": 1753693047,
+        "_nanoseconds": 936000000
+      },
+      "passwordMigrationVersion": "1.0"
+    },
+    {
+      "id": "qWlHseNqqwkOrkRYVONf",
+      "username": "Maulik",
+      "email": "mfx.logam@gmail.com",
+      "role": "user",
+      "createdAt": "2025-06-28T09:09:07.736Z",
+      "updatedAt": "2025-06-28T09:09:07.736Z",
+      "password": "$2b$12$ds5xS4Mngn5kFOhWALWeQOGdIspjtyKTpreVeiZi1CVm1EUAP7Eby",
+      "passwordMigratedAt": {
+        "_seconds": 1753693048,
+        "_nanoseconds": 131000000
+      },
+      "passwordMigrationVersion": "1.0"
+    },
+    {
+      "id": "xEkIjLZMY44uInh3FPzH",
+      "username": "Gautam",
+      "email": "gautam.logam@gmail.com",
+      "role": "user",
+      "createdAt": "2025-07-02T07:07:06.011Z",
+      "updatedAt": "2025-07-02T07:07:06.011Z",
+      "password": "$2b$12$YFQuk3di0SlohxnetkPMDu7K02/stsARj8WkqimE5ZqN/D9zP95x.",
+      "passwordMigratedAt": {
+        "_seconds": 1753693048,
+        "_nanoseconds": 326000000
+      },
+      "passwordMigrationVersion": "1.0"
+    },
+    {
+      "id": "z8MD3mskzTm45iI78O7H",
+      "username": "vipul",
+      "email": "vipulogam@gmail.com",
+      "role": "user",
+      "createdAt": "2025-07-02T12:02:51.448Z",
+      "updatedAt": "2025-07-02T12:02:51.448Z",
+      "password": "$2b$12$zCj7AAqiAfE9M97dccYx0O2dntZWkGDJ8fezp7jgpikmC8hG7xAWS",
+      "passwordMigratedAt": {
+        "_seconds": 1753693048,
+        "_nanoseconds": 520000000
+      },
+      "passwordMigrationVersion": "1.0"
+    }
+  ]
+}

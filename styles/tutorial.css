@@ -1,0 +1,232 @@
+/* Custom Tutorial Styles for Intro.js */
+
+/* Custom tooltip styling */
+.introjs-tooltip {
+  background: #ffffff;
+  border: 2px solid #e5e7eb;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+  font-family: inherit;
+  max-width: 350px;
+}
+
+.introjs-tooltip-header {
+  background: #f9fafb;
+  border-bottom: 1px solid #e5e7eb;
+  border-radius: 10px 10px 0 0;
+  padding: 15px 20px 10px;
+}
+
+.introjs-tooltip-title {
+  color: #111827;
+  font-size: 18px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.introjs-tooltiptext {
+  color: #374151;
+  font-size: 14px;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+/* Button styling */
+.introjs-button {
+  background: #111827;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 500;
+  padding: 10px 16px;
+  transition: all 0.2s ease;
+}
+
+.introjs-button:hover {
+  background: #374151;
+  transform: translateY(-1px);
+}
+
+.introjs-button:focus {
+  outline: 2px solid #3b82f6;
+  outline-offset: 2px;
+}
+
+.introjs-skipbutton {
+  background: transparent;
+  border: 1px solid #d1d5db;
+  color: #6b7280;
+}
+
+.introjs-skipbutton:hover {
+  background: #f3f4f6;
+  border-color: #9ca3af;
+  color: #374151;
+}
+
+.introjs-nextbutton {
+  background: #3b82f6;
+}
+
+.introjs-nextbutton:hover {
+  background: #2563eb;
+}
+
+.introjs-prevbutton {
+  background: #6b7280;
+}
+
+.introjs-prevbutton:hover {
+  background: #4b5563;
+}
+
+/* Progress bar */
+.introjs-progress {
+  background: #e5e7eb;
+  border-radius: 10px;
+  height: 4px;
+  margin: 15px 20px;
+  overflow: hidden;
+}
+
+.introjs-progressbar {
+  background: linear-gradient(90deg, #3b82f6, #1d4ed8);
+  border-radius: 10px;
+  height: 100%;
+  transition: width 0.3s ease;
+}
+
+/* Custom highlight styling */
+.customHighlight {
+  border: 3px solid #3b82f6 !important;
+  border-radius: 8px !important;
+  box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.2) !important;
+}
+
+/* Overlay */
+.introjs-overlay {
+  background: rgba(0, 0, 0, 0.6) !important;
+  backdrop-filter: blur(2px);
+}
+
+/* Arrow styling */
+.introjs-arrow {
+  border-color: #ffffff;
+}
+
+.introjs-arrow.top {
+  border-bottom-color: #ffffff;
+}
+
+.introjs-arrow.bottom {
+  border-top-color: #ffffff;
+}
+
+.introjs-arrow.left {
+  border-right-color: #ffffff;
+}
+
+.introjs-arrow.right {
+  border-left-color: #ffffff;
+}
+
+/* Step numbers */
+.introjs-helperNumberLayer {
+  background: #3b82f6;
+  border: 2px solid #ffffff;
+  border-radius: 50%;
+  color: white;
+  font-size: 14px;
+  font-weight: 600;
+  height: 30px;
+  line-height: 26px;
+  text-align: center;
+  width: 30px;
+}
+
+/* Hints */
+.introjs-hint {
+  background: #3b82f6;
+  border-radius: 50%;
+  box-shadow: 0 4px 12px rgba(59, 130, 246, 0.4);
+}
+
+.introjs-hint:hover {
+  background: #2563eb;
+  transform: scale(1.1);
+}
+
+.introjs-hint-pulse {
+  background: rgba(59, 130, 246, 0.3);
+  border-radius: 50%;
+}
+
+.introjs-tooltip.introjs-hint-tooltip {
+  background: #111827;
+  color: white;
+  max-width: 250px;
+}
+
+.introjs-tooltip.introjs-hint-tooltip .introjs-tooltiptext {
+  color: white;
+  padding: 15px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .introjs-tooltip {
+    max-width: 280px;
+  }
+  
+  .introjs-tooltiptext {
+    font-size: 13px;
+    padding: 15px;
+  }
+  
+  .introjs-tooltip-header {
+    padding: 12px 15px 8px;
+  }
+  
+  .introjs-button {
+    font-size: 12px;
+    padding: 8px 14px;
+  }
+}
+
+/* Animation for tooltip entrance */
+.introjs-tooltip {
+  animation: tooltipFadeIn 0.3s ease-out;
+}
+
+@keyframes tooltipFadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.9) translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+/* Custom class for special highlights */
+.tutorial-highlight {
+  position: relative;
+  z-index: 9999;
+}
+
+.tutorial-highlight::before {
+  content: '';
+  position: absolute;
+  top: -4px;
+  left: -4px;
+  right: -4px;
+  bottom: -4px;
+  background: rgba(59, 130, 246, 0.1);
+  border: 2px solid #3b82f6;
+  border-radius: 8px;
+  pointer-events: none;
+  z-index: -1;
+}
