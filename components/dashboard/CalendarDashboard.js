@@ -18,7 +18,7 @@ import {
 } from 'lucide-react';
 import Button from '../ui/Button';
 import ModernCalendar from '../calendar/ModernCalendar';
-import useCalendarTasks from '../../hooks/useCalendarTasks';
+import useCalendarTasks from '../../src/features/calendar/hooks/useCalendarTasks';
 
 const CalendarDashboard = ({ user, onTabChange }) => {
   const {
